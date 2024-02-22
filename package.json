@@ -1,0 +1,25 @@
+{
+  "name": "accessibilitywebsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Blewkse/AccessibilityWebsite.git"
+  },
+  "author": "Jules Bloux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Blewkse/AccessibilityWebsite/issues"
+  },
+  "homepage": "https://github.com/Blewkse/AccessibilityWebsite#readme",
+  "dependencies": {
+    "prettier": "^3.2.5"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
